@@ -8,7 +8,7 @@ Conor Sokolowsky
 
 ## Reading Responses
 
-
+1. [Blumenstock response](https://github.com/ConorSoko/Workshop/blob/master/blumenstock.md) (Jan. 27)
 
 ## Project 1
 
