@@ -3,7 +3,7 @@ Conor Sokolowsky
 
 ## Workshop
 
-1. Line PLot
+1. Line Plot
 2. The Path of a Salesman Plot
 
 ## Reading Responses
