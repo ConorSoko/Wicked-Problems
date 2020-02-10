@@ -2,4 +2,5 @@
 Conor Sokolowsky
 
   In a convential population-mapping method, the accuracy of the population estimates withing each pixel can be degraded. The authors describe two such methods, the first being the most rudimentary: the areal-weighting approach. In this method, researchers utilize census data and then uniformally distribute the population count over an explicit administrative boundary within that country. Although the original data is preserved in using this approach, it is often the case that countries with large areal inputs produce inaccurate population models. The second method is a little bit more involved, and utilizes additional land cover information, including the extents of various settlements within an administrative boundary. The main benefit of using these additional geospatial layers is that it improves the accuracy of the pixelated population estimates by providing more localized information on a given geographic area.
+  
   In this paper, the authors describe the global gridded data set that they produced. The data has a 100m by 100m high resolution image and the 30 arc-second 
