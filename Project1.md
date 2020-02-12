@@ -7,3 +7,5 @@ Conor Sokolowsky
 Uzbekistan
 
 ![](UzbekistanBoundaries.png)
+
+## Population
