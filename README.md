@@ -15,4 +15,4 @@ Conor Sokolowsky
 
 ## Project 1
 
-1. [Uzbekistan Boundaries](https://github.com/ConorSoko/Workshop/blob/master/UzbekistanBoundaries.png) (Feb. 7)
+1. [Uzbekistan](https://github.com/ConorSoko/Workshop/project1) (Feb. 7)
