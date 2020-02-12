@@ -15,4 +15,4 @@ Conor Sokolowsky
 
 ## Project 1
 
-1. [Uzbekistan](https://github.com/ConorSoko/Workshop/project1) (Feb. 7)
+1. [Uzbekistan](https://github.com/ConorSoko/Workshop/Project1) (Feb. 7)
