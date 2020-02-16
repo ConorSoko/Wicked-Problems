@@ -8,6 +8,6 @@ Uzbekistan
 
 ![](UzbekistanBoundaries.png)
 
-## Population
+## Tashkent Population Distribution
 
 ![](tashkent_pop19.png)
