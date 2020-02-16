@@ -16,3 +16,4 @@ Conor Sokolowsky
 ## Project 1
 
 1. [Uzbekistan](https://conorsoko.github.io/Workshop/Project1) (Feb. 7)
+2. [Tashkent Population Distribution]
