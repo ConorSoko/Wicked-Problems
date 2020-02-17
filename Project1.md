@@ -10,4 +10,4 @@ Uzbekistan
 
 ## Tashkent Population Distribution
 
-![](tashkent_pop19.png)
+![](tashkentpop19.png)
