@@ -9,9 +9,10 @@ Conor Sokolowsky
 
 ## Reading Responses
 
-1. [Blumenstock response](https://github.com/ConorSoko/Workshop/blob/master/blumenstock.md) (Jan. 27)
-2. [Perkel response](https://github.com/ConorSoko/Workshop/blob/master/perkel.md) (Jan. 29)
-3. [Lloyd et al Response](https://github.com/ConorSoko/Workshop/blob/master/lloyd.md) (Feb. 10)
+1. [Blumenstock response](https://conorsoko.github.io/Workshop/blumenstock) (Jan. 27)
+2. [Perkel response](https://conorsoko.github.io/Workshop/perkel) (Jan. 29)
+3. [Lloyd et al Response](https://conorsoko.github.io/Workshop/lloyd) (Feb. 10)
+4. [Wardrop et al Response](https://conorsoko.github.io/Workshop/wardrop) (Feb. 17)
 
 ## Project 1
 
