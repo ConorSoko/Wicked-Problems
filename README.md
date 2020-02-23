@@ -3,9 +3,7 @@ Conor Sokolowsky
 
 ## Workshop
 
-1. Line Plot
-2. The Path of a Salesman Plot
-3. [Complicated Plot Image](https://github.com/ConorSoko/Workshop/blob/master/ComplicatedPlot.png) (Jan. 31)
+1. [The Path of a Salesman Plot](https://github.com/ConorSoko/Workshop/blob/master/ComplicatedPlot.png) (Jan. 31)
 
 ## Reading Responses
 
