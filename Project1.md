@@ -8,6 +8,4 @@ Conor Sokolowsky
 
 ## Tashkent Population Distribution
 
-![](tashkentpop19.png)
-
 ![](TashkentPopPlots.png)
