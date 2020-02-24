@@ -14,4 +14,4 @@ Conor Sokolowsky
 
 ## Project 1
 
-1. [Uzbekistan](https://conorsoko.github.io/Workshop/Project1) (Feb. 7)
+1. [Uzbekistan Subdivisions and Population Distribution](https://conorsoko.github.io/Workshop/Project1) (Feb. 7)
