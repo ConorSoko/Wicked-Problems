@@ -4,10 +4,10 @@ Conor Sokolowsky
 
 ## Administrative Subdivisions of Uzbekistan
 
-Uzbekistan
-
 ![](UzbekistanBoundaries.png)
 
 ## Tashkent Population Distribution
 
 ![](tashkentpop19.png)
+
+![](TashkentPopPlots.png)
