@@ -11,7 +11,7 @@ Conor Sokolowsky
 2. [Perkel response](https://conorsoko.github.io/Workshop/perkel) (Jan. 29)
 3. [Lloyd et al Response](https://conorsoko.github.io/Workshop/lloyd) (Feb. 10)
 4. [Wardrop et al Response](https://conorsoko.github.io/Workshop/wardrop) (Feb. 17)
-4. [Stevens et al Response (Lightning Questions](https://conorsoko.github.io/Workshop/Stevens) (Feb. 17)
+4. [Stevens et al Response (Lightning Questions)](https://conorsoko.github.io/Workshop/Stevens) (Feb. 17)
 
 ## Project 1
 
