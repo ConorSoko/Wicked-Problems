@@ -3,7 +3,7 @@ Conor Sokolowsky
 
 ## Workshop
 
-1. [The Path of a Salesman Plot](https://github.com/ConorSoko/Workshop/blob/master/ComplicatedPlot.png) (Jan. 31)
+1. [The Path of a Salesman Plot](https://conorsoko.github.io/Workshop/ComplicatedPlot) (Jan. 31)
 
 ## Reading Responses
 
