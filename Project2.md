@@ -10,7 +10,7 @@ The R-squared value of 0.91 suggested strong positive correlation between the la
 
 ## Comparing Model Predictions to Actual Values
 
-Accounting for the time discrepancy between the collection of the data layers and the most recent population distribution estimate, it makes sense that my model drastically under-predicted the population counts near Tashkent City, an urban center. Below are two images: i) epicting the inaccuracy of a mdoel based on the summation of data cells within each region, and ii) depicting the inaccuracy of a mdoel based on the mean value of data cells within each region.
+Accounting for the time discrepancy between the collection of the data layers and the most recent population distribution estimate, it makes sense that my model drastically under-predicted the population counts near Tashkent City, an urban center. Below are two images: i) epicting the inaccuracy of a mdoel based on the summation of data cells within each region, and ii) depicting the inaccuracy of a mdoel based on the mean value of data cells within each region. The absolute value of the total differences between the sum model estimates and the actual popualation count was 5,622,991, while the means model had a far worse output of 130,669,997.
 
 ![](SumsModel.png)
 
