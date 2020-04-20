@@ -15,12 +15,12 @@ Conor Sokolowsky
 
 ## Project 1
 
-1. [Uzbekistan Subdivisions and Population Distribution](https://conorsoko.github.io/Wicked-Problems/Project1) (Feb. 7)
+[Uzbekistan Subdivisions and Population Distribution](https://conorsoko.github.io/Wicked-Problems/Project1) (Feb. 7)
 
 ## Project 2
 
-1. [Modeling and Predicitng the Population Distribution of Uzbekistan](https://conorsoko.github.io/Wicked-Problems/Project2) (April 5)
+[Modeling and Predicitng the Population Distribution of Uzbekistan](https://conorsoko.github.io/Wicked-Problems/Project2) (April 5)
 
 ## Project 3
 
-1. [Accesibility to Healthcare through Transportation Facilities](https://conorsoko.github.io/Wicked-Problems/Project3) (April 19)
+[Accesibility to Healthcare through Transportation Facilities](https://conorsoko.github.io/Wicked-Problems/Project3) (April 19)
