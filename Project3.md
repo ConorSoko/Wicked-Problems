@@ -14,6 +14,8 @@ I then filtered out any resulting urban-center polygons with population counts a
 
 ![](samarqand_urban_areas.png)
 
+
+
 ## Stacking Road and Health Infrastructure Layers to Map Visual
 
 To complete the project, I first used the HDX data on Uzbekistan's transportation facilities, overlaying and cropping the shapefile onto the Samarqand district. The resulting road map (pictured below) contains all the major roadways that run into Samarqand. Primary roads are pictured in black, secondary in blue, and tertiary in gray. Note how almost no main roadways run beyond the urban center I identified.
