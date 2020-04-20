@@ -6,8 +6,6 @@
 
 ![](density.png)
 
-![](density.png)
-
 ## Stacking Road and Health Infrastructure Layers to Map Visual
 
 ![](samarqand_roads.png)
