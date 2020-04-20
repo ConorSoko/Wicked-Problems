@@ -20,3 +20,7 @@ Conor Sokolowsky
 ## Project 2
 
 1. [Modeling and Predicitng the Population Distribution of Uzbekistan](https://conorsoko.github.io/Wicked-Problems/Project2) (April 5)
+
+## Project 3
+
+1. [Accesibility to Healthcare through Transportation Facilities](https://conorsoko.github.io/Wicked-Problems/Project3) (April 19)
