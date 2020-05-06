@@ -2,7 +2,7 @@
 
 ## Topographical Impact on Human Development
 
-I began this project by using my plot from Project 3, which mapped the major roadways, healthcare facilities, and urban areas within the Samarqand district of Uzebekistan. I grew the map to also include the neighboring administrative district Urgut. Pictured below is the rendered image of the combined maps. Note that the dotted yellow line is the border surroudning both Samarqand and Urgut; the reason that some roads are depicted outside of the border is due to the fact that the map plots all roads that enter each district, with some continuing on to neighboring districts.
+I began this project by using my plot from Project 3, which mapped the major roadways, healthcare facilities, and urban areas within the Samarqand district of Uzebekistan. I grew the map to also include the neighboring administrative district Urgut. Pictured below is the rendered image of the combined maps. Note that the dotted yellow line is the border surroudning both Samarqand and Urgut; the reason that some roads are depicted outside of the border is due to the fact that the map plots all roads that enter each district, with some continuing on to neighboring districts. The healthcare facilities by each of these "spill-over" roads are then also plotted by default.
 
 ![](combined.png)
 
