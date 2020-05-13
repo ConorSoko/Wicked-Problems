@@ -31,4 +31,4 @@ Conor Sokolowsky
 
 ## Final Project
 
-[Cumulative Final Project](https://conorsoko.github.io/Wicked-Problems/finalproject) (May 13)
+[Cumulative Final Project](https://conorsoko.github.io/Wicked-Problems/final project) (May 13)
