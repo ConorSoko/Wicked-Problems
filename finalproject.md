@@ -4,7 +4,7 @@ Conor Sokolowsky
 
 ## Administrative Subdivisions of Uzbekistan
 
-Below is a high-resolution image of Tashkent's administrative borders and subdivisions. Highlighted in Detail A is Tashkent, one of the most populous administrative districts in Uzbekistan. Within Tashkent lies Tashkent City, the capital of Uzbekistan, which is highlighted in a close-up image of Detail A.
+I chose to focuse my exploration of geographic population distribution on Uzebkistan, a middle-income, land-locked country in Central Asia. I mainly chose this country due to my family's ties to the region, and I wanted to familiarize myself with the area. Uzbekistan is divided into 12 provinces, one autonomous republic (Qaraqalpaqstan), and one autonomous city (Tahkent City). Below is a high-resolution image of Tashkent's administrative borders and subdivisions. Highlighted in Detail A is Tashkent, one of the most populous administrative districts in Uzbekistan. Within Tashkent lies Tashkent City, the capital of Uzbekistan, which is highlighted in a close-up image of Detail A.
 
 ![](UzbekistanBoundaries.png)
 
@@ -65,3 +65,7 @@ As one can see, there appears to be a desert of roads and healthcare facilities 
 ![](topography.png)
 
 It is clear to see with the above map that the geographical features of this region do a a lot to explain the lack of development in half of both Samarqand and Urgut. The road networks and healthcare facility distribution seem to dissipate as soon as one reaches the mountains. As discussed in class and proven many times over in numerous research studies, physical geography continues to be one of the most driving charactersitics in explaining human development distributions.
+
+### Sources
+
+https://www.nationsonline.org/oneworld/map/uzbekistan-administrative-map.htm
