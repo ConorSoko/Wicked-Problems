@@ -66,6 +66,14 @@ As one can see, there appears to be a desert of roads and healthcare facilities 
 
 It is clear to see with the above map that the geographical features of this region do a a lot to explain the lack of development in half of both Samarqand and Urgut. The road networks and healthcare facility distribution seem to dissipate as soon as one reaches the mountains. As discussed in class and proven many times over in numerous research studies, physical geography continues to be one of the most driving charactersitics in explaining human development distributions.
 
+## Final Thoughts
+
+I learned many things through my study on the population distribution of Uzbekistan, beyond that of learning basic R functions and applications. First, I became familiar with a region that my family has ties to, even though I have never visited it yet. It was great to see all the cities and landforms my dad used to enjoy when he was younger, and I hope that my familiarization with the area will prove useful when I visit in the future. 
+
+Second, one should not take for granted the level of urbanization in a given country. It is easy to falsely assume that countries are more developed than they are, and that an urban area in lower- or middle-income country will have the highest population count. Instead, as is often the case in these countries, there is a larger, widely dispersed rural population spread out over a vast area. This characteristic is common among these countries based on their respective stages of development (see [Rostow's Development Model](https://www.jstor.org/stable/2591077?seq=1)), and it is important to understand when studying development economics or financing development projects in the region.
+
+The third and final conclusion I took away from this course, and perhaps the most profound, was that despite the seemingly endless number of covariate layers one could use to refine a population distribution, the most effective predictor continues to be the physical geography of the area. The dispersement of resources, the patterns of accessible/inaccessible terrain, waterways, and arable soil are what initially allowed humans to create settlements. These settlements grew and spread over time, but would always remain close to necessary resources. As seen in the unionized Samarqand/Urgut districts of Uzbekistan, the main urban area of Samarqand was close to a river and spread up to, but not much into, the nearby mountains. It is important not to lose sight of the fundamentals of human origin when explaining patterns we see today, especially now that one can get lost in pitfalls of big data mining.
+
 ### Sources
 
 [One Planet - Nations Online](https://www.nationsonline.org/oneworld/map/uzbekistan-administrative-map.htm)
