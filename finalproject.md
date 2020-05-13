@@ -68,6 +68,6 @@ It is clear to see with the above map that the geographical features of this reg
 
 ### Sources
 
-https://www.nationsonline.org/oneworld/map/uzbekistan-administrative-map.htm
+[One Planet - Nations Online](https://www.nationsonline.org/oneworld/map/uzbekistan-administrative-map.htm)
 
-https://www.un.int/uzbekistan/uzbekistan/country-facts
+[The Permanent Mission of the Republic of Uzbekistan to the United Nations](https://www.un.int/uzbekistan/uzbekistan/country-facts)
